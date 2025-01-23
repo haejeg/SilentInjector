@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haejeg\\Documents\\GitHub\\SilentInjector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6664DB97-D5C3-4CC3-BB40-DA9E526AA931}|MalwareBytesBackgroundProcess\\backgroundInjector.csproj|c:\\users\\haejeg\\documents\\github\\silentinjector\\malwarebytesbackgroundprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6664DB97-D5C3-4CC3-BB40-DA9E526AA931}|MalwareBytesBackgroundProcess\\backgroundInjector.csproj|solutionrelative:malwarebytesbackgroundprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6664DB97-D5C3-4CC3-BB40-DA9E526AA931}|MalwareBytesBackgroundProcess\\backgroundInjector.csproj|c:\\users\\haejeg\\documents\\github\\silentinjector\\malwarebytesbackgroundprocess\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6664DB97-D5C3-4CC3-BB40-DA9E526AA931}|MalwareBytesBackgroundProcess\\backgroundInjector.csproj|solutionrelative:malwarebytesbackgroundprocess\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haejeg\\Documents\\GitHub\\SilentInjector\\MalwareBytesBackgroundProcess\\Form1.cs",
+              "RelativeDocumentMoniker": "MalwareBytesBackgroundProcess\\Form1.cs",
+              "ToolTip": "C:\\Users\\haejeg\\Documents\\GitHub\\SilentInjector\\MalwareBytesBackgroundProcess\\Form1.cs [Design]",
+              "RelativeToolTip": "MalwareBytesBackgroundProcess\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:02:38.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\haejeg\\Documents\\GitHub\\SilentInjector\\MalwareBytesBackgroundProcess\\Program.cs",
+              "RelativeDocumentMoniker": "MalwareBytesBackgroundProcess\\Program.cs",
+              "ToolTip": "C:\\Users\\haejeg\\Documents\\GitHub\\SilentInjector\\MalwareBytesBackgroundProcess\\Program.cs",
+              "RelativeToolTip": "MalwareBytesBackgroundProcess\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:02:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
